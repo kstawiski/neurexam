@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://ftp.comfortzg.com/public_html/badanieneurologiczne/|ftp://ftp.comfortzg.com/public_html/kondi/badanieneurologiczne/|C:\Users\Konrad\Badanie Neurologiczne\|ftp://kondi:Ko1111%40ftp.comfortzg.com/public_html/badanieneurologiczne/|ftp://badanieneurologiczne:Kondor1208%40ftp.comfortzg.com/public_html/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.comfortzg.com/~kondi/badanieneurologiczne/|http://www.comfortzg.com/~badanieneurologiczne/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.comfortzg.com/~kondi/badanieneurologiczne</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://www.comfortzg.com/~kondi/badanieneurologiczne</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

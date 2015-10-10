@@ -1,0 +1,59 @@
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Badanie Neurologiczne.exe.manifest
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Badanie Neurologiczne.application
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Badanie Neurologiczne.exe
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Badanie Neurologiczne.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form1.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form10.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.elearning.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form3.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form4.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form6.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form8.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form9.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Properties.Resources.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie Neurologiczne.exe.manifest
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie Neurologiczne.application
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie Neurologiczne.exe
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie Neurologiczne.pdb
+C:\Users\Konrad\documents\visual studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form11.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\ip_icon_04_Info.png
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\white-star-md.png
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form12.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form13.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form14.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form15.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form16.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form17.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form18.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\lame_enc.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\HTMLPage1.htm
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\ICD10.txt
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\ICD9.txt
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\HTMLWYSIWYG.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Istrib.Sound.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Istrib.Sound.Example.WinForms.exe
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Istrib.Sound.Mp3.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\ModelEditControl.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\yeti.mmedia.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\yeti.mp3.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\HTMLWYSIWYG.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Istrib.Sound.Example.WinForms.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Istrib.Sound.Mp3.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Istrib.Sound.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\yeti.mmedia.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\yeti.mp3.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\ModelEditControl.xml
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie Neurologiczne.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form19.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form20.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form21.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.MainForm.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie Neurologiczne.csproj.GenerateResource.Cache
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\segoeui.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\segoeuib.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\segoeuii.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\segoeuiz.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\seguisb.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Release\Badanie Neurologiczne.exe.config
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie_Neurologiczne.Form22.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Release\Badanie Neurologiczne.TrustInfo.xml

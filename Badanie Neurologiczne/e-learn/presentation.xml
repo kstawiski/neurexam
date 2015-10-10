@@ -1,0 +1,2186 @@
+<?xml version="1.0"?>
+<presentation title="E-learning Badanie Neurologiczne" width="800.0000000" height="600.0000000" thmbWidth="120.0000000" thmbHeight="90.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{EC96EB57-964A-4D00-99BB-70FBBBB72943}">
+	<presenters/>
+	<company>
+		<logo src="" embedded="0" href="" target="_self"/>
+	</company>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="data/sound0.swf" embedded="0" size="1024"/>
+	</soundAssets>
+	<backgroundSound soundAssetId="" looping="0"/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1"/>
+			<mouse enabled="1" target="step"/>
+		</navigation>
+		<skin>
+			<misc>
+				<embedFonts>0</embedFonts>
+				<size>
+					<height>540</height>
+					<width>720</width>
+					<autoSize>1</autoSize>
+				</size>
+			</misc>
+			<presenter>
+				<enabled>1</enabled>
+				<hideVideo>Hide video</hideVideo>
+				<showVideo>Show video</showVideo>
+				<enableVideo>0</enableVideo>
+				<email>E-mail:</email>
+				<homePage>Home page:</homePage>
+				<lessInfo>Less info</lessInfo>
+				<moreInfo>More info</moreInfo>
+				<enablePhoto>1</enablePhoto>
+				<noVideo>no video available</noVideo>
+				<videoModeSwitching>
+					<enabled>1</enabled>
+					<defaultVideoSize>small</defaultVideoSize>
+					<maxVideoResolution>
+						<width>640</width>
+						<height>480</height>
+					</maxVideoResolution>
+				</videoModeSwitching>
+			</presenter>
+			<company>
+				<enableLogo>1</enableLogo>
+			</company>
+			<controlPanel>
+				<volumeControl>
+					<enabled>1</enabled>
+				</volumeControl>
+				<marker>
+					<highlighterColor>16776960</highlighterColor>
+					<penColor>16711680</penColor>
+					<enabled>1</enabled>
+				</marker>
+				<timeLine>
+					<enabled>1</enabled>
+					<type>slide</type>
+					<slideLabel>Slajd</slideLabel>
+				</timeLine>
+				<navigation>
+					<type>slides</type>
+				</navigation>
+			</controlPanel>
+			<titleBar>
+				<presentationTime>
+					<enabled>0</enabled>
+				</presentationTime>
+				<closeButton>
+					<enabled>0</enabled>
+				</closeButton>
+				<fullScreenButton>
+					<enabled>1</enabled>
+				</fullScreenButton>
+			</titleBar>
+			<references>
+				<title>References</title>
+				<enabled>0</enabled>
+				<order>4</order>
+			</references>
+			<search>
+				<slideTitles>Slide titles</slideTitles>
+				<slideNotes>Slide notes</slideNotes>
+				<slideText>Slide text</slideText>
+				<searchIn>Search in</searchIn>
+				<searchFor>Search for</searchFor>
+				<title>Search</title>
+				<enabled>0</enabled>
+				<order>3</order>
+			</search>
+			<notes>
+				<time>Czas: {MINUTES} min {SECONDS} sec</time>
+				<title>Notatki</title>
+				<enabled>1</enabled>
+				<order>2</order>
+			</notes>
+			<thumbnails>
+				<title>Miniatury</title>
+				<enabled>1</enabled>
+				<order>1</order>
+				<zoom>1</zoom>
+				<type>normal</type>
+				<showExtraThumbnail>0</showExtraThumbnail>
+				<extraThumbnailSize>
+					<width>400</width>
+					<height>300</height>
+				</extraThumbnailSize>
+			</thumbnails>
+			<outline>
+				<title>Outline</title>
+				<multiLevelNavigation>1</multiLevelNavigation>
+				<enabled>0</enabled>
+				<order>0</order>
+				<showTooltips>1</showTooltips>
+			</outline>
+			<colors>
+				<presenterTitle>16777215</presenterTitle>
+				<presenterName>16777215</presenterName>
+				<presenterPanel>16777215</presenterPanel>
+				<slideCountAndDuration>16777215</slideCountAndDuration>
+				<currentSlideAndPosition>16777215</currentSlideAndPosition>
+				<buttonCaptions>16777215</buttonCaptions>
+				<presentationTitle>16777215</presentationTitle>
+				<icons>16777215</icons>
+				<panelsAndButtons>16777215</panelsAndButtons>
+				<timeline>9287162</timeline>
+			</colors>
+			<defaultTab>thumbnails</defaultTab>
+			<messages>
+				<leaveSlideWarning>You must complete the quiz before leaving this slide.</leaveSlideWarning>
+				<leaveSlideWarningTitle>Warning</leaveSlideWarningTitle>
+				<resumeText>Would you like to resume the presentation from the last slide viewed?</resumeText>
+				<resumeTitle>Resume Presentation</resumeTitle>
+				<ok>OK</ok>
+				<no>No</no>
+				<yes>Yes</yes>
+			</messages>
+			<sidePanel>
+				<enabled>1</enabled>
+				<left>0</left>
+			</sidePanel>
+		</skin>
+		<colorScheme>
+			<primaryColor>0.5686482;0.5208360;-0.0894842;0.0000000;0.0000000;0.1655884;0.6967325;0.1376791;0.0000000;0.0000000;0.3927516;0.2936727;0.3135757;0.0000000;0.0000000;0.0000000;0.0000000;0.0000000;1.0000000;0.0000000;</primaryColor>
+		</colorScheme>
+		<appearance fullScreen="0"/>
+		<playback autoStart="1" resumePresentationPlayback="1" syncWithVideoNarration="1" enableVideoControl="1"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Badanie Neurologiczne" titleNormalized="badanie neurologiczne" src="data/slide1.swf" size="11357" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb1.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound0" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound0" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie neurologiczne
+konrad stawiski</text>
+		</slide>
+		<slide index="1" title="(1) Wywiad" titleNormalized="(1) wywiad" src="data/slide2.swf" size="7335" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb2.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound1" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound1" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>(1) wywiad</text>
+		</slide>
+		<slide index="2" title="Uwagi wstępne:" titleNormalized="uwagi wstępne:" src="data/slide3.swf" size="24939" advanceOnTime="0" framesCount="145" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb3.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound2" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound2" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="144" playTime="6.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>uwagi wstępne:
+badanie neurologiczne powinno być poprzedzone badaniem internistycznym.
+nigdy nie można pomijać:
+tętna (na dużych pniach i kończynach + osłuchanie np. szmer naczyniowy = niedrożność),
+ciśnienia tętniczego krwi,
+temperatury.
+często informacje udzielone przez pacjenta powinny być potwierdzone przez członka rodziny.
+
+
+choroby oun
+objawy ze strony oun
+objawy ogólne (niespecyficzne)
+inne choroby układowe</text>
+		</slide>
+		<slide index="3" title="Badanie OUN" titleNormalized="badanie oun" src="data/slide4.swf" size="62986" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb4.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound3" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound3" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie oun
+świadomość i wyższe czynności nerwowe (zdolności poznawcze, pamięć, myślenie, emocje)
+nerwy czaszkowe (nc i – nc xii)
+kończyny górne (ruch, czucie, odruchy, koordynacja)
+kończyny dolne (ruch, czucie, odruchy, koordynacja) → chód, postawa
+zwieracze (nietrzymanie, zatrzymanie)
+tułów (czucie, odruchy)</text>
+		</slide>
+		<slide index="4" title="Czego możemy się spodziewać?" titleNormalized="czego możemy się spodziewać?" src="data/slide5.swf" size="66896" advanceOnTime="0" framesCount="385" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb5.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound4" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound4" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="384" playTime="16.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>czego możemy się spodziewać?
+ból głowy
+czynniki wyzwalające
+początek (nagły, stopniowy)
+częstość, pora dnia
+czas trwania
+nasilenie
+charakter (ciągły, pulsujący)
+objawy towarzyszące (wymioty, zaburzenia widzenia)
+umiejscowienie
+czynniki łagodzące
+czynniki zaostrzające
+u 20% pacjentów zgłaszających się do izby przyjęć przyczyną może być krwotok podpajęczynówkowy (zwłaszcza w przypadku bólu o nagłym początku)
+ból występujący każdego rana → ↑ciśnienie śródczaszkowe</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="data/slide6.swf" size="235311" advanceOnTime="0" framesCount="61" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb6.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound5" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound5" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="60" playTime="2.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ból głowy
+ale także
+ból spowodowany stresem
+ból spowodowany guzem mózgu
+ból spowodowany zmianami zwyrodnieniowymi szyjnego odcinka kręgosłupa
+ból rzutowany - promieniujący od zębów, żuchwy, zatok przynosowych, oka</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="data/slide7.swf" size="143323" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb7.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound6" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound6" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ból głowy</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="data/slide8.swf" size="25154" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb8.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound7" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound7" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ból głowy
+jest mało prawdopodobne, aby ból głowy występujący od wielu lat świadczył o rozwijającej się chorobie, natomiast ból trwający od kilku tygodni lub miesięcy sugeruje możliwość istnienia powiększającej się zmiany śródmózgowej
+doustne środki antykoncepcyjne mogą wywoływać lub nasilać ból migrenowy, szczególnie w tygodniu przerwy.
+wywiad socjalny: stres, alkohol, lęki
+
+objawy alarmujące:
+
+tkliwość owłosionej skóry głowy + sztywność mięśni proksymalnych kończyn = zapalenie tętnicy skroniowej
+
+wysypka + gorączka + światłowstręt + sztywność karku = zapalenie opon mózgowo-rdzeniowych
+
+nagły ból głowy w okolicy potylicznej = krwotok podpajęczynówkowy
+
+ból głowy wcześnie rano + nudności = wzmożone ciśnienie śródczaszkowe</text>
+		</slide>
+		<slide index="8" title="Czego możemy się spodziewać?" titleNormalized="czego możemy się spodziewać?" src="data/slide9.swf" size="68419" advanceOnTime="0" framesCount="481" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb9.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound8" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound8" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="480" playTime="20.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>czego możemy się spodziewać?
+zaburzenia widzenia
+czynniki wyzwalające
+początek (nagły, stopniowy)
+częstość, pora dnia
+czas trwania
+stopień upośledzenia?
+jednooczne/obuoczne
+ubytek całkowity/częściowy
+podwójne widzenie?
+zależność od kierunku spojrzenia
+omamy? (brak bodźca, fałszywe wrażenie)
+upostaciowione (żywe wyobrażenia)
+bezpostaciowe (kształty, kolory)
+złudzenia? (bodziec fałszywie przetworzony)
+
+ → badanie nc ii
+prawidłowo
+omamy
+złudzenia</text>
+		</slide>
+		<slide index="9" title="Czego możemy się spodziewać?" titleNormalized="czego możemy się spodziewać?" src="data/slide10.swf" size="79592" advanceOnTime="0" framesCount="565" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb10.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound9" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound9" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="564" playTime="23.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>czego możemy się spodziewać?
+utrata przytomności
+co pacjent ma na myśli, mówiąc, że stracił przytomność?
+czynniki wyzwalające
+początek (nagły, stopniowy) → objawy zwiastunowe
+częstość, pora dnia
+czas trwania
+jak się pacjent czuł przed i po?
+przygryzanie języka?
+nietrzymanie moczu?
+drgawki (kończyny)?
+nadużywanie alkoholu/narkotyków?
+uraz głowy?
+objawy ze strony układu krążenia lub oddechowego?
+czy byli świadkowie? (!!!)
+jak długo trwała utrata świadomości?
+co się działo z pacjentem podczas jej?
+czy badał tętno? (!!!)
+prawidłowe tętno w czasie napadu wyklucza zaburzenia rytmu serca!
+szybki powrót świadomości → omdlenie wazowagalne
+zamroczenie i dezorientacja → np. stan pomroczny w padaczce
+osłabienie → porażenie todda, przejściowe ataki niedokrwienne</text>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="data/slide11.swf" size="181141" advanceOnTime="0" framesCount="61" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb11.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound10" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound10" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="60" playTime="2.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>utrata przytomności</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="data/slide12.swf" size="18291" advanceOnTime="0" framesCount="61" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb12.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound11" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound11" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="60" playTime="2.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>utrata przytomności
+czynniki ryzyka padaczki
+(urazy głowy, choroby naczyń mózgowych,
+zapalenie opon mózgowo-rdzeniowych)
+historia choroby
+choroby serca
+cukrzyca
+(kontrola glikemii, napady hipoglikemii)
+leki
+o ujemnym działaniu chronotropowym
+(blokery receptorów β-adrenoergicznych)
+powodujące dysrytmie
+(trójpierścieniowe przeciwdepresyjne, teofilina)
+insulina
+( → hipoglikemia)
+na nadciśnienie
+( → podciśnienie ortostatyczne)
+nitrogliceryna narkotyki
+czy ostatnio zostały zmienione zlecenia?</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="data/slide13.swf" size="170995" advanceOnTime="0" framesCount="61" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb13.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound12" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound12" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="60" playTime="2.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>utrata przytomności</text>
+		</slide>
+		<slide index="13" title="Czego możemy się spodziewać?" titleNormalized="czego możemy się spodziewać?" src="data/slide14.swf" size="26071" advanceOnTime="0" framesCount="253" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb14.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound13" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound13" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="252" playTime="10.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>czego możemy się spodziewać?
+zaburzenia mowy, ruchu, czucia
+czynniki wyzwalające
+początek (nagły, stopniowy)
+częstość, pora dnia
+czas trwania
+trudności w płynnym wysławianiu się?
+trudności w wysławianiu się?
+trudności w rozumieniu mowy?
+upośledzenie równowagi?
+osłabienie siły mięśniowej?
+postępujące/stałe
+dystalne/proksymalne
+bolesne/niebolesne
+ruchy mimowolne?
+ból?
+drętwienie/mrowienie?
+umiejscowienie</text>
+		</slide>
+		<slide index="14" title="Czego możemy się spodziewać?" titleNormalized="czego możemy się spodziewać?" src="data/slide15.swf" size="25060" advanceOnTime="0" framesCount="229" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb15.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound14" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound14" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="228" playTime="9.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>czego możemy się spodziewać?
+zaburzenia zwieraczy, psychiczne
+czynniki wyzwalające
+początek (nagły, stopniowy)
+częstość, pora dnia
+czas trwania
+pęcherz?
+odbyt?
+problemy z kontrolą:
+nietrzymanie
+zatrzymanie
+pamięć?
+inteligencja?
+osobowość?
+zachowanie?</text>
+		</slide>
+		<slide index="15" title="Ocena poziomu świadomości" titleNormalized="ocena poziomu świadomości" src="data/slide16.swf" size="31325" advanceOnTime="0" framesCount="277" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb16.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound15" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound15" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="276" playTime="11.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ocena poziomu świadomości
+skala glasgow
+łącznie można uzyskać od 3 do 15 punktów, ale należy zaznaczyć z jakich składowych powstał wynik (np. gcs 12: 3/4 + 4/5 + 5/6).
+ocena pod względem:
+
+otwierania oczu (4 punkty)
+
+reakcji słownej (5 punktów)
+
+rekacji ruchowej (6 punktów)
+
+należy uwzględnić sytuacje, w których ocena w skali glasgow jest utrudniona. do najczęstszych należą: intubacja – pacjent przytomny nie toleruje rurki intubacyjnej, a wynik gcs ≤ 8 stanowi wskazanie do intubacji, a także rozważenie inwazyjnego pomiaru ciśnienia wewnątrzczaszkowego (icp).
+niedowład lub porażenie – pacjent nie porusza się z innego powodu. 
+skala glasgow może być stosowana u dzieci, które już dobrze mówią, tj. od 4 roku życia. u mniejszych dzieci stosuje się pediatryczną skalę glasgow. w przypadkach urazu głowy, utrata choćby jednego punktu w skali gcs, jest jednym ze wskazań do wykonania tomografii komputerowej (ct) głowy.
+liczy się najwyższy wynik</text>
+		</slide>
+		<slide index="16" title="Ocena poziomu świadomości" titleNormalized="ocena poziomu świadomości" src="data/slide17.swf" size="105806" advanceOnTime="0" framesCount="49" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb17.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound16" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound16" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="48" playTime="2.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ocena poziomu świadomości
+otwieranie oczu
+
+bodziec bólowy = ucisk paznokciem na nerw nadoczodołowy
+odpowiedź słowna
+
+jęczy/chrząka nie wypowiada słów
+raczej sporadyczne słowa niż zdania
+zdaniami, ale zdezorientowany co do czasu i przestrzeni</text>
+		</slide>
+		<slide index="17" title="Ocena poziomu świadomości" titleNormalized="ocena poziomu świadomości" src="data/slide18.swf" size="101585" advanceOnTime="0" framesCount="25" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb18.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound17" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound17" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="24" playTime="1.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ocena poziomu świadomości
+odpowiedź ruchowa
+
+najlepiej na nerw nadoczodołowy ucisk na łożysko paznokcia lub mostek może uniemożliwić rozróżnienie lokalizowania od odkorowania
+przywiedzenie ramion, zgięcie w stawach łokciowych i ręki, przeprost w stawach kończyn dolnych
+odwiedzenie i obrót ramion do wewnątrz, wyprost w stawach łokciowych, nawrócenie przedramion i zgięcie stawów ręki, przeprost w stawach kończyn dolnych, odwrócenie stopy
+ucisk na łożysko paznokcia
+energiczne pocieranie mostka
+ → badanie nieprzytomnego pacjenta</text>
+		</slide>
+		<slide index="18" title="Ocena wyższych czynności mózgowych ZDOLNOŚCI POZNAWCZE" titleNormalized="ocena wyższych czynności mózgowych zdolności poznawcze" src="data/slide19.swf" size="92036" advanceOnTime="0" framesCount="517" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb19.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound18" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound18" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="516" playTime="21.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ocena wyższych czynności mózgowych zdolności poznawcze
+półkula
+dominująca
+półkula
+niedominująca
+dysfazja ruchowa
+dysfazja czuciowa
+dysfazja nominalna (nazywanie przedmiotów)
+dysleksja (niepoprawne czytanie)
+dysgrafia (niepoprawne pisanie)
+agnozja (rozpoznawanie przedmiotów)
+afazja
+dyskalkulia ( → test seryjnych 7, od 100 odejmujemy seryjnie 7)
+afazja amnestyczna (utrata zdolności nazywania przedmiotów, stanów czy zjawisk, które chory potrafi określić opisowo)
+∑ słów = komunikat
+oun
+(zrozumienie)
+odpowiedź
+afazja czuciowa
+afazja ruchowa</text>
+		</slide>
+		<slide index="19" title="Ocena wyższych czynności mózgowych ZDOLNOŚCI POZNAWCZE" titleNormalized="ocena wyższych czynności mózgowych zdolności poznawcze" src="data/slide20.swf" size="85279" advanceOnTime="0" framesCount="133" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb20.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound19" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound19" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="132" playTime="5.5000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ocena wyższych czynności mózgowych zdolności poznawcze
+półkula
+dominująca
+półkula
+niedominująca
+agnozja geograficzna (brak zdolności do odnalezienia drogi do swojego domu)
+apraksja ubierania się
+apraksja konstrukcyjna (kopiowanie figur geometrycznych)</text>
+		</slide>
+		<slide index="20" title="Ocena wyższych czynności mózgowych PAMIĘĆ" titleNormalized="ocena wyższych czynności mózgowych pamięć" src="data/slide21.swf" size="26316" advanceOnTime="0" framesCount="385" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb21.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound20" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound20" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="384" playTime="16.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ocena wyższych czynności mózgowych pamięć
+pamięć bezpośrednia powtórzenie sekwencji 5-7 cyfrowej
+
+pamięć świeża
+opisanie obecnej choroby lub pobytu w szpitalu
+
+pamięć odległa
+opisanie wydarzenia sprzed co najmniej 5 lat
+
+pamięć słowna
+zapamiętanie zdania/opowiadania i powtórzenie po 15 minutach
+
+pamięć wzrokowa
+zapamiętanie przedmiotów i ich ułożenia
+
+badanie nie jest możliwe u osób z dysfazją lub splątanych
+
+uraz lub udar mózgu
+niepamięć wsteczna
+niepamięć pourazowa (następcza)</text>
+		</slide>
+		<slide index="21" title="Unaczynienie mózgowa" titleNormalized="unaczynienie mózgowa" src="data/slide22.swf" size="127511" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb22.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound21" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound21" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>unaczynienie mózgowa</text>
+		</slide>
+		<slide index="22" title="Unaczynienie mózgowia" titleNormalized="unaczynienie mózgowia" src="data/slide23.swf" size="173906" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb23.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound22" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound22" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>unaczynienie mózgowia</text>
+		</slide>
+		<slide index="23" title="(2) Badanie przedmiotowe" titleNormalized="(2) badanie przedmiotowe" src="data/slide24.swf" size="9469" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb24.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound23" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound23" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>(2) badanie przedmiotowe</text>
+		</slide>
+		<slide index="24" title="Uwagi wstępne:" titleNormalized="uwagi wstępne:" src="data/slide25.swf" size="28017" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb25.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound24" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound24" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>uwagi wstępne:
+obserwacja zachowania (spowolnienie, ruchy mimowolne),
+badanie neurologiczne powinno być poprzedzone badaniem internistycznym.
+nigdy nie można pomijać:
+tętna (na dużych pniach i kończynach + osłuchanie np. szmer naczyniowy = niedrożność),
+ciśnienia tętniczego krwi,
+temperatury.
+co trzeba zrobić? (kolejność według a. prusiński)
+badanie głowy.
+objawy oponowe i korzeniowe.
+nerwy czaszkowe.
+układ ruchowy.
+układ czuciowy.
+stan psychiczny.
+
+</text>
+		</slide>
+		<slide index="25" title="Badanie głowy" titleNormalized="badanie głowy" src="data/slide26.swf" size="45725" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb26.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound25" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound25" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie głowy
+kształt i symetria czaszki?
+blizny i ubytki kostne?
+bolesność przy opukiwaniu?
+osłuchiwanie czaszki?, np. 
+szmer w okolicy naczyniaka mózgu
+wygląd twarzy i mimika, np.
+nieruchoma, maskowata twarz = choroba parkinsona (zanik neuronów dopaminoergicznych istoty czarnej)
+pogrubienie, powiększenie nosa, warg = akromegalia (nadmierne wydzielanie somatotropiny przez kom. kwasochłonnych przedniego płata przysadki)
+grymasy w pląsawicy.
+
+naczyniaki mózgu – nieprawidłowe połączenia pomiędzy tętnicami i żyłami, powstające podczas życia płodowego, tworzące kłębowiska patologicznych naczyń, wśród których znajduje się tkanka nerwowa; występują rzadziej niż tętniaki.</text>
+		</slide>
+		<slide index="26" title="Objawy oponowe (1/2)" titleNormalized="objawy oponowe (1/2)" src="data/slide27.swf" size="70455" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb27.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound26" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound26" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>objawy oponowe (1/2)
+sztywność karku
+opór przy biernym pochyleniu głowy ku przodowi.
+objaw karkowy brudzińskiego
+odruchowe zgięcie kolan przy biernym pochyleniu głowy ku przodowi u leżącego chorego.
+objaw kerninga
+odruchowy kurcz mięśni zginaczy w obrębie kończyn dolnych. chory leży na wznak, zgina się kończynę dolną w biodrze i kolanie pod kątem prostym, a następnie próbuje się wyprostować ją (w kolanie) = opór.</text>
+		</slide>
+		<slide index="27" title="Objawy oponowe (2/2)" titleNormalized="objawy oponowe (2/2)" src="data/slide28.swf" size="34766" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb28.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound27" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound27" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>objawy oponowe (2/2)
+co sugerują objawy oponowe?
+zapalenia opon i mózgu.
+infekcja oun (najczęściej wirusowa, rzadziej bakteryjna). inne objawy to zaburzenia świadomości, gorączka, bóle głowy, nudności i wymioty, senność, bóle mięśni, niedowład połowiczy, niezborność, ataki padaczkowe oraz objawy ogniskowe. leczenie antywirusowy (np. acyklowir), w innych przypadkach przeciwzapalne kortykosterydy oraz lecz. objawowe.
+krwotok podpajęczynówkowy.
+krwawienie do przestrzeni podpajęczynówkowej, która znajduje się między pajęczynówką a oponą miękką mózgu.
+uszkodzenia pourazowe mózgu.
+urazy śródczaszkowe.</text>
+		</slide>
+		<slide index="28" title="Objawy korzeniowe" titleNormalized="objawy korzeniowe" src="data/slide29.swf" size="74589" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb29.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound28" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound28" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>objawy korzeniowe
+objaw lasegue’a
+unoszenie kończyny = silny ból okolicy lędźwiowo-krzyżowej, pośladka i tylnej powierzchni uda
+rozciąganie uciśniętych korzeni nn. rdzeniowych = ból
+(przez jądro miażdżyste lub nowotwór)
+objaw fajersztajna-krzemickiego
+unoszenie zdrowej kończyny (+ dorsiflexion) = ból chorej kończyny
+objaw mackiewicza
+rwa udowa, leży na brzuchu, zgięcie nogi w kolanie = ból (przednio-boczna pow. uda = n. udowy)</text>
+		</slide>
+		<slide index="29" title="Nerwy Czaszkowe" titleNormalized="nerwy czaszkowe" src="data/slide30.swf" size="208240" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb30.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound29" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound29" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerwy czaszkowe</text>
+		</slide>
+		<slide index="30" title="Nerw węchowy (I)" titleNormalized="nerw węchowy (i)" src="data/slide31.swf" size="64545099" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb31.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound30" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video0" videoClipId="show0_44361895"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound30" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerw węchowy (i)
+czy rozpoznaje dobrze substancje zapachowe?
+np. olejek miętowy, olejek kamforowy, nafta
+hyposmia – przytępienie węchu,
+anosmia – całkowity brak węchu,
+parosmia – spaczony węch,
+∟ kakosmia – chory opisuje silne, nieprzyjemne wrażenia węchowe
+
+!!! związek smaku i węchu</text>
+		</slide>
+		<slide index="31" title="Nerw wzrokowy (II)" titleNormalized="nerw wzrokowy (ii)" src="data/slide32.swf" size="35743973" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb32.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound31" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video1" videoClipId="show0_44444138"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound31" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerw wzrokowy (ii)
+pole widzenia? = metoda konfrontacji (patrzenie jednooczne lub dwuoczne)
+np. niedowidzenie.
+ostrość wzroku? = tablice snellena (5 m)
+
+pallinopsia – przedmiot ruchomy postrzegany jako zwielokrotniony i nieruchomy.
+oscillopsia – dragnie obrazu, który powinien być nieruchomy.
+
+</text>
+		</slide>
+		<slide index="32" title="Oftalmoskopia (1/2)" titleNormalized="oftalmoskopia (1/2)" src="data/slide33.swf" size="35720565" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb33.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound32" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video2" videoClipId="show0_44519456"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound32" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>oftalmoskopia (1/2)
+badanie dna oka = wziernik elektryczny oftalmoskop 
+→ obraz prosty, powiększony 15x
+rozszerzenie źrenicy ułatwia badanie:
+u dorosłych 1% r-r sol.tropicamidi (działa 6-8 godz.),
+u dzieci 0,5% r-r sol.tropicamidi,
+u ludzi starszych należy sprawdzić palpacyjnie gałkę → szukanie zmian jaskrowych? (atak jaskry)
+kolejność czynności:
+przyciemnić pomieszczenie.
+polecić pacjentowi patrzeć w dal i oddychać spokojnie.
+metoda prawy-prawy-prawy (nasze prawe oko, prawa ręka, badane oko prawe) lub lewy-lewy-lewy.
+włączyć oftalmoskop, skierować snop światła na źrenicę, przekręcając lekko oftalmoskop w kierunku nosa.
+znaleźć różowy refleks z dna oka.
+przybliżyć się do pacjenta trzymając oftalmoskop na linii rzęs badanego oka.
+wziernikowanie dna oka rozpocząć od oceny tarczy n. wzrokowego. dno oka oceniać symetrycznie.
+na końcu zbadać plamkę żółtą (badany patrzy w światło).</text>
+		</slide>
+		<slide index="33" title="Oftalmoskopia (2/2) Prawidłowe Dno Oka" titleNormalized="oftalmoskopia (2/2) prawidłowe dno oka" src="data/slide34.swf" size="48356400" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb34.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound33" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video3" videoClipId="show0_44660715"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound33" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>oftalmoskopia (2/2) prawidłowe dno oka
+siatkówka – kolor siatkówki jest zależny od pigmentacji skóry 
+(czarnoskórzy = czerwono-czarna, różowa = albinosi)
+
+tarcza n. wzrokowego – kształt okrągły lub owalny, granice ostre oprócz donosowej części. w części centralnej dołek centralny, który jest jaśniejszy → fizjologiczne zagłębienie. wychodzą z niego tętnica i żyła środkowa siatkówki.
+plamka żółta – obszar bardziej czerwony i większy od tarczy, w środku punkcik z refleksem świetlnym.
+
+t. środkowa siatkówki dzieli się na g. górną i dolną, każda z nich na g. skroniową i nosową. tętnice są jaśniejsze i węższe od żył.
+
+zasada działania:</text>
+		</slide>
+		<slide index="34" title="Nerw okoruchowy (III)" titleNormalized="nerw okoruchowy (iii)" src="data/slide35.swf" size="794346" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb35.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound34" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video4" videoClipId="show0_44679856"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound34" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerw okoruchowy (iii)
+szerokość źrenic? (wąskie = w wiądzie rdzenia, zatrucie fenobarbitalem; szerokie = zatrucie atropiną)
+okrągłe i równe źrenice? 
+jednostronne poszerzenie = m.in. klinowanie pourazowego krwiaka [uszkodzone naczynie → lokalne gromadzenie się krwi] podtwardówkowego, guz mózgu, zespół adiego [brak odruchów mięśniowych + spowolniona reakcja źrenic na światło + spowolniona akomodacja soczewki; etiologia nieznana]
+anisocoria? (= nierówność źrenic, np. w kile lub zespole hornera)
+nieokrągłe źrenice? (= kiła, alkoholizm, cukrzyca, zrosty po zapaleniu tęczówki i operacjach zaćmy)
+reakcja na światło?
+reakcja na zbieżność? (zbliżenie przedmiotu = ruch zbieżny gałek ocznych + zwężenie źrenic)
+odruch na nastawność? (dot. jednego oka, przedmiot daleki 𝑧𝑤ęż𝑒𝑛𝑖𝑒 ź𝑟𝑒𝑛𝑖𝑐𝑦 przedmiot bliski)
+
+reakcja konsensualna – reakcja zwężenia źrenicy po stronie przeciwnej niż oświetlana. !!! badać obustronnie → które ramie odruchu (dośrod./odśrod.) jest zajęte?
+zespół hornera – uszkodzenie drogi współczulnej dla oka, triada objawów: zwężenie źrenicy (miosis), zwężenie szpary powiek (ptosis), wrażenie wpadnięcia gałki ocznej (enophthalmus).
+</text>
+		</slide>
+		<slide index="35" title="Ruchy gałek ocznych (III, IV, VI)" titleNormalized="ruchy gałek ocznych (iii, iv, vi)" src="data/slide36.swf" size="14862036" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb36.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound35" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video5" videoClipId="show0_44707842"/>
+				<video id="video6" videoClipId="show0_44712678"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound35" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ruchy gałek ocznych (iii, iv, vi)
+n. czaszkowy iv (bloczkowy) unerwia m. skośny oka górny, a n. czaszkowy vi (odwodzący) – m. prosty oka boczny. reszta mięśni jest unerwiona przez n. okoruchowy (iii).
+szerokość szpar powiek? (prawidłowe, równe?, opadanie?)
+ustawienie oczu? (zez?)
+osadzenie oczu? (wytrzeszcz/zapadnięcie?)
+ruch oczu? (wodzenie za palcem, oczopląs?)
+oczopląs – mimowlne rytmiczne ruchy gałek ocznych.
+ruch oscylacyjny (nystagmoidalny) – npat., gałki oczne ustawione skrajnie, imituje oczopląs, ale ulega samoistnemu wygaszeniu.
+nerw bloczkowy = porażenie m. skośnego górnego.
+
+nerw odwodzący = porażenie m. prostego bocznego.</text>
+		</slide>
+		<slide index="36" title="Nerw trójdzielny (V)" titleNormalized="nerw trójdzielny (v)" src="data/slide37.swf" size="13373529" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb37.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound36" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video7" videoClipId="show0_44740946"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound36" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerw trójdzielny (v)
+czucie na twarzy? (wacikiem na czole, policzku i ramię żuchwy) !!! boczna powierzchnia nosa = v1, okolica kąta żuchwy = v2
+bolesność ujść poszczególnych gałęzi? (v1 = wcięcie nadoczodołowe, v2 = otwór podoczodołowy, v3 = otwór bródkowy)
+odruch rogówkowy? (dotykając ostożnie otwarte oko kłaczkiem waty = zamknięcie oka)
+odruch żuchwowy? (lekko otwarte usta, palec na podbródku i uderzamy w niego młotkiem perkusyjnym = skurcz mm. żucia)
+czynność mięśni żucia?</text>
+		</slide>
+		<slide index="37" title="Nerw twarzowy (VII)" titleNormalized="nerw twarzowy (vii)" src="data/slide38.swf" size="87375173" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb38.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound37" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video8" videoClipId="show0_44811536"/>
+				<video id="video9" videoClipId="show0_44955681"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound37" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerw twarzowy (vii)
+nerw twarzowy unerwia mm. wyrazowe twarzy (przez splot przyuszny). przez strunę bębenkową unerwia śliniankę podżuchwową i smakowo 2/3 przednie języka. przez nerw skalisty większy współtworzy splot skrzydłowo-podniebienny. dodatkowo unerwia tylny brzusiec m. dwubrzuścowego, m. rylcowo-gnykowy i czołowo-ciemieniowy.
+czynność mm. twarzowy? (= zmarszczyć czoło?, unieść brwi?, zacinać powieki?, wyszczerzyć zęby?)
+objaw bella – zwrot gałki ku górze przy próbie zamknięcia oka → widoczny, bo szpara powiek nie zamyka się = brak działania m. okrężnego oka. (lagophthalmus)
+smak przednich 2/3 języka? (= pałeczką nanosić roztwory o różnych smakach na wysunięty język, !!! nie chować)
+fascykulacja, inaczej drżenie pęczkowe (łac. fasciculatio) – błyskawiczne, drobne skurcze grup włókienek mięśniowych. proces ten dotyka samą komórkę nerwową i pojawia się jeżeli jest uszkodzone samo ciało komórki nerwowej, jest jednym z głównych objawów uszkodzenia neuronu ruchowego obwodowego. przyczyną jest powoli toczący się proces zwyrodnieniowy.</text>
+		</slide>
+		<slide index="38" title="Nerw twarzowy (VII)" titleNormalized="nerw twarzowy (vii)" src="data/slide39.swf" size="135513" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb39.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound38" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound38" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerw twarzowy (vii)
+paresis = porażenie/paraliż = łac. plegia
+wiotkie neurogenne = uszkodzenie nerwu obwodowego (obun) → obniżenie napięcia i zanik mm., fascykulacja, zniesienie odruchów.
+wiotkie miogenne = uszkodzenie m.
+spastyczne = uszkodzenie ośrodkowe (oun) → wzmożone napięcie mm.
+przysenne = podczas zasypania (katapleksja) → zachowana świadomość bez możliwości sterowania swoimi mięśniami → objaw narkolepsji (nadmierna senność + katapleksja + omamy, etiologia nieznana)</text>
+		</slide>
+		<slide index="39" title="Nerw przedsionkowo-ślimakowy (VIII)" titleNormalized="nerw przedsionkowo-ślimakowy (viii)" src="data/slide40.swf" size="64639526" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb40.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound39" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video10" videoClipId="show0_45101511"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound39" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerw przedsionkowo-ślimakowy (viii)
+słuch? (= szept z 6-7 metrów/ tykanie zegara lub tarcie palców przy małżowinie usznej), dokładniej audiogram.
+narząd równowagi? (= próby błędnikowe, np. obrotowa i kaloryczna)</text>
+		</slide>
+		<slide index="40" title="Nerw językowo-gardłowy (IX) Nerw błędny (X)" titleNormalized="nerw językowo-gardłowy (ix) nerw błędny (x)" src="data/slide41.swf" size="71545" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb41.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound40" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound40" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerw językowo-gardłowy (ix) nerw błędny (x)
+mowa? (zdanie z samogłoskami = dyzartria?)
+dysartria = dysfunkcja aparatu wykonawczego
+łuki podniebienne? (aaaa… = symetryczne i napięte przy fonacji?)
+odruch podniebienny? (= uniesienie się łuku po jego dotknięciu szpatułką)
+odruch gardłowy? (= wymioty po dotknięciu tylnej ściany gardła, np. zniesiony w histerii)
+połykanie?
+ncix unerwia poprzez n. skalisty mniejszy unerwia śliniankę przyuszną. unerwia smakowo 1/3 tylną języka. współtworzy splot gardłowy dla mięśni gardła. unerwia czuciowo także ten region.
+ncx współtworzy splot gardłowy. oddaje n. krtaniowy górny i n. krtaniowy wsteczny. źródło składnika przywspółczulnego dla trzewi.</text>
+		</slide>
+		<slide index="41" title="Nerw dodatkowy (XI)" titleNormalized="nerw dodatkowy (xi)" src="data/slide42.swf" size="64579822" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb42.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound41" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video11" videoClipId="show0_45236748"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound41" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nerw dodatkowy (xi)
+skręcić głowę wbrew oporowi? (badanie m. mostkowo-sutkowo-obojczykowego)
+unieść barki? (badanie m. czworobocznego)
+nerw podjęzykowy (xii)
+wysunąć język? (trudności z wysunięciem, zbaczanie, zaniki mięśni, drżenie pęczkowe?)
+polecenie → nie wysuwają mimo braku porażenie → apraksja. zaburzenia apraktyczne są często wynikiem udarów, guzów, spotyka się je również w chorobie alzheimera.
+ncxi unerwia m. mostk.-oboj.-sutk. oraz m. czworoboczny. ncxii unerwia wszystkie mięśnie wewnętrzne języka.</text>
+		</slide>
+		<slide index="42" title="Badanie układu ruchu" titleNormalized="badanie układu ruchu" src="data/slide43.swf" size="48620" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb43.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound42" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound42" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie układu ruchu
+oglądanie kończyn.
+ruchy bierne i napięcie mięśni.
+ruchy czynne i siła.
+zborność ruchów.
+badanie odruchów.
+badanie chodu.</text>
+		</slide>
+		<slide index="43" title="Badanie układu ruchu" titleNormalized="badanie układu ruchu" src="data/slide44.swf" size="188462" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb44.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound43" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound43" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie układu ruchu
+górny neuron ruchowy
+dolny neuron ruchowy = α-motoneuron
+układ piramidowy
+układ pozapiramidowy
+sterowanie postawą ciała
+inicjacja ruchu</text>
+		</slide>
+		<slide index="44" title="Oglądanie kończyn" titleNormalized="oglądanie kończyn" src="data/slide45.swf" size="35485" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb45.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound44" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound44" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>oglądanie kończyn
+nieprawidłowe ustawienie kończyn lub patologiczna postawa ciała?
+ruchy mimowolne? (drżenia, ruchy pląsawicze, atetozy) atetoza - występowanie niezależnych od woli, nierytmicznych, powolnych ruchów zlokalizowanych w kończynach górnych, których największe natężenie dotyczy ich dystalnych (końcowych) odcinków, osiągając największe nasilenie w obrębie palców. ruchy atetotyczne są skutkiem nieskoordynowanych skurczów mięśni agonistycznych i antagonistycznych; mogą być objawem uszkodzenia jądra ogoniastego, skorupy lub gałki bladej.
+drżenie → charakter organiczny? (spoczynkowe, niesymetryczne, grubofaliste, obrotowe), charakter czynnościowy? (charakterystyczne dla nerwic → drżenia drobne, tylko przy wyciągnięciu ręki, znikające po odwróceniu uwagi)
+zanik mięśni i obecność drżeń pęczkowych?
+zmiany skórne? (obrzęki, zasinienia, nadmierne zrogowacenie itp.)</text>
+		</slide>
+		<slide index="45" title="Ruchy bierne i napięcie mięśni" titleNormalized="ruchy bierne i napięcie mięśni" src="data/slide46.swf" size="144325" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb46.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound45" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound45" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ruchy bierne i napięcie mięśni
+badanie ruchów biernych umożliwia wykluczenie oporów mechanicznych (zmiany miejscowe w stawach lub mięśniach, bolesność ruchowa stawów, stan napięcia mięśniowego)
+obniżenie napięcia = polineuropatia, wiąd rdzenia, choroby móżdżku,
+sztywność mięśniowa = uszkodzenie układu pozapiramidowego,
+spastyczność = uszkodzenie układu piramidowego.</text>
+		</slide>
+		<slide index="46" title="" titleNormalized="" src="data/slide47.swf" size="28319" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb47.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound46" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound46" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>zjawiska mięśniowe
+fascykulacje – nieregularne, krótkie skurcze pojedyńczych jednostek motorycznych (słabe, znikomy efekt ruchowy)
+miokimie – powolne „fale” skurczu mięśniowego widoczne pod skórą (znikomy efekt ruchowy)
+miorytmie – rytmiczne drżenia całej grupy mięśniowej, najczęściej palców (rzadkie, efekt ruchowy)
+mioklonie – szybkie, nierytmiczne kurcze grupy mięśniowej (bardzo silny efekt ruchowy)
+nie są to „ruchy mimowolne”, jak drżenia czy ruchy pląsawicze.
+ruchy czynne i siła
+niedowład (paresis) = zmniejszenie zakresu ruchu lub osłabienie siły,
+porażenie (plegia) = całkowity brak ruchów,
+badanie powinno być dokładne i obejmować wszystkie stawy,
+niedowład można także wybrać polecając ruch obustronnie (opóźnienie?),
+skala lovetta → stopnie niedowładu:
+5 – normalna siła,
+4 – ruch zachowany, ale utrudniony przy dodatkowym oporze,
+3 – brak ruchu przy oporze,
+2 – ruch możliwy tylko przy podtrzymaniu,
+1 – ślad ruchu,
+0 – brak ruchu.</text>
+		</slide>
+		<slide index="47" title="" titleNormalized="" src="data/slide48.swf" size="110184" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb48.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound47" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound47" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ruchy czynne i siła</text>
+		</slide>
+		<slide index="48" title="" titleNormalized="" src="data/slide49.swf" size="86178" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb49.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound48" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound48" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ruchy czynne i siła</text>
+		</slide>
+		<slide index="49" title="" titleNormalized="" src="data/slide50.swf" size="56031511" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb50.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound49" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video12" videoClipId="show0_45386774"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound49" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ruchy czynne i siła</text>
+		</slide>
+		<slide index="50" title="Zborność ruchów" titleNormalized="zborność ruchów" src="data/slide51.swf" size="157535" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb51.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound50" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound50" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>zborność ruchów</text>
+		</slide>
+		<slide index="51" title="Zborność ruchów" titleNormalized="zborność ruchów" src="data/slide52.swf" size="18751252" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb52.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound51" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video13" videoClipId="show0_45415791"/>
+				<video id="video14" videoClipId="show0_45445181"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound51" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>zborność ruchów
+zborność ruchów - koordynacja ruchów poszczególnych części ciała
+upośledzenie = ataksja → uszkodzenie móżdżku lub sznurów tylnych
+
+!!! obserwacja chorego przy poruszaniu się
+polecenie różnych prób:
+próba „palec-nos”- można ujawnić nietrafianie, hipermetrię (przecenienie odległości) lub drżenie zamiarowe (pojawiające się w czasie zbliżania kończyny do celu, z tendencją do nasilania w czasie wykonywanego ruchu),
+próba „palec-palec” – trafianie palcem wskazującym do własnego palca wskazującego,
+szybkie ruchy naprzemienne = diadochokineza (np. pronatio/supinatio),
+próba „pięta-kolano” – trafianie w pozycji leżącej piętą w kolano,
+ataksja tułowia w pozycji siedzącej?
+próba romberga – stanie ze złożonymi stopami i wyciągniętymi rękoma przy otwartych i zamkniętych oczach → określenie kierunku padania.
+!!! czynnościowy objaw romberga = psychogenna niemożność ustania w tej pozycji, zanika przy odwróceniu uwagi.
+if a forearm pronates then the person is said to have pronator drift on that side reflecting a contra-lateral pyramidal tract lesion. a lesion in the cerebellum produces a drift upwards.</text>
+		</slide>
+		<slide index="52" title="Odruchy fizjologiczne" titleNormalized="odruchy fizjologiczne" src="data/slide53.swf" size="93014" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb53.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound52" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound52" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>odruchy fizjologiczne
+określić: obecność?, symetryczność?, prawidłowość lub zniesienie/wzmożenie?
+zniesienie = uszkodzenie drogi odruchu (np. α-motoneuron, korzenie tylne, sznury rdzenia, !!! ale też same mięśnie)
+wzmożenie = np. niedowład piramidowy (= ośrodkowy), nerwice (symetryczne)
+młotek neurologiczny → odruchy głębokie,
+szpilka lub tępo zakończona rękojeść młoteczka → odruchy powierzchowne,
+klonusy?
+klonus (trząs) to ciąg mimowolnych skurczów włókien mięśniowych wywołanych przez nagłe rozciąganie mięśnia. w przeciwieństwie samoistnych do drobnych drgań (facykulacji) występujących w przypadku uszkodzenia dolnego neuronu ruchowego klonusy zawsze są wywołane na drodze odruchowej (są wynikiem znacznego wygórowania odruchu) oraz posiadają znaczną amplitudę.
+rzepkotrząs – rytmiczne skurcze mięśnia czworogłowego uda poruszające rzepką, wywołane przez energiczne szarpnięcie rzepki ku dołowi,
+stopotrząs – rytmiczne drgania stopy po energicznym grzbietowym zgięciu stopy a następnie przytrzymaniu w uzyskanej pozycji; stopa nie przestaje drgać aż do zmiany jej ułożenia.
+!!! podświadome hamowanie</text>
+		</slide>
+		<slide index="53" title="Odruchy fizjologiczne" titleNormalized="odruchy fizjologiczne" src="data/slide54.swf" size="96769" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb54.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound53" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound53" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>odruchy fizjologiczne 
+odruch z kości promieniowej (m. brachioradialis).
+odruch z mięśnia dwugłowego.
+odruch z mięśnia trójgłowego.
+odruchy brzuszne.
+odruch kolanowy.
+odruch skokowy (ze ścięgna achillesa).
+odruch podeszwowy.
+kończyn górnych
+kończyn dolnych
+ścięgniste, oprócz brzusznych (powierzchowne)
+najczęściej używana skala:</text>
+		</slide>
+		<slide index="54" title="Odruchy fizjologiczne (k. górna)" titleNormalized="odruchy fizjologiczne (k. górna)" src="data/slide55.swf" size="78137" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb55.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound54" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound54" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>odruchy fizjologiczne (k. górna) 
+c5/c6 → odruch z m. dwugłowego ramienia.
+uderzyć w ścięgno mięśnia w zgięciu łokciowym (pod kątem rozwartym). można najpierw wyczuć ścięgno własnym palcem, a potem uderzyć bezpośrednio w niego.
+ (+) → zgięcie w stawie łokciowym.
+c5/6 → odruch z m. ramienno-promieniowego.
+przedramię pacjenta w pozycji pośredniej między pronacją a supinacją. łokieć lekko zgięty. uderzyć w wyrostek rylcowaty k. promieniowej (tam gdzie ścięgno mięśnia).
+ (+) → lekka pronacja + lekkie zgięcie w stawie łokciowym.
+
+rzadziej można też wywołać odruch z k. łokciowej (uderzenie w głowę k. łokciowej od strony grzbietowej. ten sam efekt, ale oprócz c6 pośredniczą neuromery c7 i c8.
+c6/c7 → odruch z m. trójgłowego ramienia.
+łokieć w lekkim zgięciu. należy unieść lekko przedramię pozwalając na lekkie zwisanie. uderzyć młotkiem w ścięgno tuż nad wyrostkiem łokciowym (olecranon).
+ (+) → prostowanie w stawie łokciowym.
+(-) → uszkodzenie któregoś ramienia odruchu, np. 
+niedoczulica = ramię wstępujące,
+osłabienie siły mięśniowej = ramię zstępujące.
+c7/c8 → odruch z m. piersiowego większego.
+palce na brzuścu mięśnia przyśrodkowo od m. naramiennego, młotkiem we własne palce → (+) skurcz
+!!! równorzędne zaangażowanie obu korzeni.
+(patologiczny) c8 → odruch zgięcia palców. (trömmera)
+uderzenie młotkiem w pow. dłoniową ii i iii palca
+ (+) → zgięcie wszystkich palców.</text>
+		</slide>
+		<slide index="55" title="Odruchy fizjologiczne (k. dolna)" titleNormalized="odruchy fizjologiczne (k. dolna)" src="data/slide56.swf" size="83035" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb56.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound55" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound55" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>odruchy fizjologiczne (k. dolna) 
+l2/l3 → odruch mm. przywodzicieli.
+wiedziony przez n. zasłonowy. uderzyć młotkiem w kłykieć przyśrodkowy k. udowej.
+ (+) → przywodzenie uda.
+l2/l3/l4 → odruch kolanowy.
+uderzyć młotkiem w ścięgno m. czworogłowego uda poniżej rzepki (= więzadło rzepki). pacjent leży z kończynami dolnymi lekko zgiętymi (100-130˚) lub siedzi ze stopami lekko opartymi o podłogę i kolanami zgiętymi pod kątem lekko większym, niż kąt prosty.
+ (+) → prostowanie goleni w stawie kolanowym (lub sam skurcz).
+s1 → odruch skokowy.
+wiedziony przez n. piszczelowy. pacjent klęczy na krześle twarzą do oparcia. alternatywnie pacjent leży, a badający zgina biernie kończynę dolną w stawie biodrowym i kolanowym, stopa pod kątem prostym odwrócona przyśrodkowo ku górze. uderzyć w ścięgno achillesa (= m. trójgłowy łydki).
+ (+) → prostowanie goleni w stawie kolanowym (lub sam skurcz).
+podobne miejsce uderzenia w tej samej pozycji → l5 → odruch m. piszczelowego tylnego.</text>
+		</slide>
+		<slide index="56" title="Odruchy fizjologiczne (powierzchowne)" titleNormalized="odruchy fizjologiczne (powierzchowne)" src="data/slide57.swf" size="56646" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb57.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound56" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound56" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>odruchy fizjologiczne (powierzchowne) 
+odruch rogówkowy, gardłowy… → badanie nn. czaszkowych.
+w standardowym badaniu neurologicznym trzeba ocenić odruchy brzuszne.
+
+odruchy te sprawdza się:
+
+pacjent leży na plecach. drażnić skórę brzucha szybkim linijnym ruchem (delikatnym) od zewnątrz do wewnątrz.
+
+sprawdzić na 3 poziomach:
+
+dolny łuk ostatnich żeber = neuromery th8/th9,
+
+na wysokości pępka = neuromer th10,
+
+na wysokości więzadła pachwinowego = neuromery th11/th12.
+
+(+) → skurcz mm. prostych brzucha po tej samej stronie = przesunięcie pępka w stronę drażnioną.</text>
+		</slide>
+		<slide index="57" title="Odruchy fizjologiczne" titleNormalized="odruchy fizjologiczne" src="data/slide58.swf" size="75734" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb58.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound57" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound57" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>odruchy fizjologiczne 
+nerve root
+intrinsic muscle reflex
+muscles involved
+c5
+biceps reflex
+deltoid, biceps
+c6
+brachioradialis reflex
+biceps, brachioradialis
+c7
+triceps reflex
+triceps, thenar eminence
+c8
+trömner reflex
+flexors of the fingers, hypothenar eminence
+nerve root
+intrinsic muscle reflex
+muscles involved
+l3
+adductor reflex, patellar reflex
+hip adductors, quadric ceps femoris
+l4
+patellar reflex
+quadriceps femoris, tibialis anterior
+l5
+tibialis posterior reflex
+extensor hallucis, tibi alis anterior
+s1
+achilles tendon reflex
+triceps surae, gluteus maximus
+podsumowanie:
+(-) → uszkodzenie któregoś ramienia odruchu, np. 
+niedoczulica = ramię wstępujące,
+osłabienie siły mięśniowej = ramię zstępujące.</text>
+		</slide>
+		<slide index="58" title="Odruchy fizjologiczne" titleNormalized="odruchy fizjologiczne" src="data/slide59.swf" size="25103446" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb59.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound58" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video15" videoClipId="show0_45522698"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound58" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>odruchy fizjologiczne</text>
+		</slide>
+		<slide index="59" title="Odruchy patologiczne" titleNormalized="odruchy patologiczne" src="data/slide60.swf" size="50826" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb60.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound59" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound59" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>odruchy patologiczne 
+objaw babińskiego
+odruchowe wyprostowanie palucha z jego zgięciem grzbietowym w trakcie drażnienia skóry boczno-dolnej powierzchni stopy. może jemu towarzyszyć zgięcie podeszwowe pozostałych palców stopy, zgięcie podeszwowe pozostałych palców z ich wachlarzowym odwiedzeniem ("objaw wachlarza" = "signe d'eventail") albo zgięcie kończyny dolnej w 3 stawach ("potrójne zgięcie", odruch obronny, odruch ucieczki).
+!!! objaw fizjologiczny do 2. roku życia, po tym czasie jest traktowany jako patologiczny.
+objaw oppenheima
+uciskać przednią krawędź kości piszczelowej a potem przesuwajać ucisk obwodowo [w dół, po przyśrodkowej stronie] (w kierunku stawu skokowego). jeżeli nastąpi charakterystyczny wyprost palucha, to objaw jest dodatni. 
+objaw oppenheima zyskuje na znaczeniu, gdy pacjent, siłą woli powstrzymując odruch, uniemożliwia zbadanie klasycznego objawu babińskiego.
+objaw rossolimo
+polega na podeszwowym zgięciu palców stopy w odpowiedzi na szybkie ich uderzenie.
+wszystkie te objawy świadczą o organicznym uszkodzeniu neuronu ruchowego ośrodkowego = dróg piramidowych.
+objaw chaddocka
+drażnienie skóry poniżej kostki bocznej = tak jak przy objawie babińskiego.</text>
+		</slide>
+		<slide index="60" title="Badanie kręgosłupa" titleNormalized="badanie kręgosłupa" src="data/slide61.swf" size="33691" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb61.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound60" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound60" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie kręgosłupa
+ocenić fizjologiczne lordozy i kifozy? (płaszczyzna strzałkowa)
+skolioza? (płaszczyzna poprzeczna)
+palpacyjne badanie wyrostków kolczystych (bolesność?)
+
+pacjent siedzi lub stoi (wyprostowany odcinek szyjny). pionowy osiowy ucisk głowy pacjenta ku dołowi = ból → zmiana patologiczna kręgu (na tym poziomie) (objaw szczytowy)
+po zgięciu karku wrażenie przebiegania prądu po kręgosłupie → uszkodzenie rdzenia w odcinku szyjnym (objaw lhermitte’a)</text>
+		</slide>
+		<slide index="61" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide62.swf" size="8035571" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb62.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound61" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video16" videoClipId="show0_45552073"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound61" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+abazja = całkowita niemożność chodzenia.
+!!! może mieć podłoże psychogenne = abazja histeryczna
+długość kroków?
+symetria chodu?
+postawa chorego?
+obserwacja ruchomości we wszystkich stawach kk. dolnych.
+współruchy kk. górnych?
+
+konwersja, zaburzenia konwersyjne (dawniej, czasem utożsamiane z histerią) w psychologii uwarunkowanie, w którym diagnozuje się u pacjenta objawy jak w zaburzeniach neurologicznych motoryki (np. spowolnienie ruchów), podczas gdy jego układ nerwowy nie wykazuje odchyleń od normy i nie można wskazać jednoznacznej przyczyny psychologicznej czy też organicznej takiej diagnozy, lub zaburzenie jest ocenione jako większe niż zwykle taka przyczyna wywołuje.</text>
+		</slide>
+		<slide index="62" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide63.swf" size="104068" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb63.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound62" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="sound62" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+w niedowładach połowiczych
+k. górna:
+przedramie zgięte i nawrócone w stawie łokciowym,
+częściowe zgięcie w nadgarstu i palców.
+k. dolna:
+wyprostowana w stawie kolanowym,
+końsko-szpotawe ustawienie w stawie skokowym
+pacjent wykonuje półkoliste ruchy, żeby nie zahaczać.
+
+spowodowany jest uszkodzeniem drogi korowo-rdzeniowej w mózgu. niedowład występuje po stronie przeciwnej do lokalizacji uszkodzenia z uwagi na skrzyżowanie dróg korowo-rdzeniowych (piramidowych)- droga rozpoczynająca się w jednej półkuli przechodzi na stronę przeciwną w pniu mózgu (skrzyżowanie piramid).</text>
+		</slide>
+		<slide index="63" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide64.swf" size="95064" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb64.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound63" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="sound63" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+bóle kręgosłupa promieniujące do kończyn dolnych
+spłaszczenie lordozy (tułów ku przodowi)
+kończyna dolna zgięta we wszystkich stawach
+kręgosłup – skolioza z wysunięciem biodra ku bokowi
+!!! chory stara się unikać rozciągnięcia n. kulszowego i zmiany ustawienia kręgosłupa</text>
+		</slide>
+		<slide index="64" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide65.swf" size="152029" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb65.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound64" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="sound64" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+w porażeniach prostowników stopy i placów (n. strzałkowy)
+brak unoszenia bocznej krawędzi stopy
+pacjent unosi wysoko kolano, żeby uniknąć zahaczenia</text>
+		</slide>
+		<slide index="65" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide66.swf" size="94709" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb66.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound65" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="sound65" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+zaburzenia czucia proprioceptywnego → nie są świadomi ułożenia kończyn dolnych kiedy na nie patrzą
+na szerokiej podstawie
+niepewne kroki o zmiennej długości
+silne zgięcie w biodrze i kolanie (= wyrzucenie kończyny do przodu)
+silne uderzenie piętą o podłogę
+zamknięcie oczy = nasilenie
+(+) objaw romberga</text>
+		</slide>
+		<slide index="66" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide67.swf" size="92864" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb67.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound66" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="sound66" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+uszkodzenie móżdżku
+na szerokiej podstawie
+chwiejny
+odchylenie tułowia ku tyłowi → robak
+opadanie w stronę uszkodzenia → półkula móżdżku</text>
+		</slide>
+		<slide index="67" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide68.swf" size="94480" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb68.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound67" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="sound67" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+spastyczność w stawie biodrowym i kolanowym
+niewielki stopień zgięcia w tych stawach = szuranie po podłodze
+drobne kroczki</text>
+		</slide>
+		<slide index="68" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide69.swf" size="104818" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb69.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound68" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="sound68" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+stwardnienie rozsiane (niedowład spastyczny + niezborność móżdżkowa)
+usztywnienie kk. dolnych (wyrzuca je chwiejnie i silnie uderza o podłogę)
+zatacza się (podtrzymywanie)
+stwardnienie rozsiane (łac. sclerosis multiplex, sm, ang. multiple sclerosis, ms) – przewlekła, zapalna, demielinizacyjna choroba centralnego układu nerwowego, w której dochodzi do wieloogniskowego uszkodzenia (demielinizacji i rozpadu aksonów) tkanki nerwowej.</text>
+		</slide>
+		<slide index="69" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide70.swf" size="94598" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb70.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound69" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="sound69" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+we wczesnych fazach asymetryczny, potem obustronny
+początkowo balansownie rękami lub słabsze balansowanie po stronie drżenia
+potem postawa zgięciowa, chód trudny do zapoczątkowania, małe kroczki, słabe odrywanie, brak balansowania
+propulsja (tendencja do padania do przodu)
+retropulsja (tendencja do padania ku tyłowi)
+lateropulsja (tendencja do padania w bok)</text>
+		</slide>
+		<slide index="70" title="Badanie chodu" titleNormalized="badanie chodu" src="data/slide71.swf" size="93607" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb71.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound70" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="WipeLeft" duration="1.0000000" soundId="sound70" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie chodu
+dystrofia mięśniowa, wrodzone zwichnięcie stawu biodrowego → niedowład mm. obręczy k. dolnej (dokładniej odwodzicieli stawu biodrowego)
+kołysanie w biodrach
+nadmierne pochylenia miednicy</text>
+		</slide>
+		<slide index="71" title="Badanie czucia" titleNormalized="badanie czucia" src="data/slide72.swf" size="117862" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb72.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound71" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound71" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie czucia
+ocena czucia powierzchniowego 
+dotyk, 
+ból, 
+temperatura. 
+ocena czucia głębokiego 
+ułożenia, 
+ruchu, 
+wibracji, 
+stereognozji = rozpoznawanie kształtu i wielkości przedmiotu bez udziału wzroku, 
+ucisku i oporu.</text>
+		</slide>
+		<slide index="72" title="Badanie czucia" titleNormalized="badanie czucia" src="data/slide73.swf" size="151179" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb73.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound72" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound72" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie czucia
+!!! neuromery = strefy head’a
+!!! konwergencja bólu somatycznego i bólu trzewnego</text>
+		</slide>
+		<slide index="73" title="Badanie czucia powierzchniowego" titleNormalized="badanie czucia powierzchniowego" src="data/slide74.swf" size="15007" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb74.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound73" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound73" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie czucia powierzchniowego
+dotyk → za pomocą pędzelka (kłębka waty)
+temperatura → zimna/ciepła woda
+ból → specjalne pałeczki/delikatnie igłą
+
+anestezja = brak czucia dotyku
+hipoestezja = osłabienie czucia dotyku
+hiperestezja = nadwrażliwość na dotyk
+dyzestezja = nieprawidłowe odczuwanie bodźców
+
+analgezja = brak czucia bólu
+hipalgezja = osłabione czucie bólu
+hiperalgezja = nadwrażliwość na ból
+
+alodynia = ból wywołuje bodziec, który nie powinien go wywołać
+parestezja = samoistnie powstające wrażenia bólowe (najczęściej uszkodzenie dróg czucia)
+
+głównie bada się rozróżnianie bodźców (ostry/miękki) przede wszystkim na kończynach
+</text>
+		</slide>
+		<slide index="74" title="Badanie czucia powierzchniowego" titleNormalized="badanie czucia powierzchniowego" src="data/slide75.swf" size="67652174" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb75.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound74" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video17" videoClipId="show0_45748806"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound74" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie czucia powierzchniowego
+n. pośrodkowy = 3,5 palca dłoniowo prom.
+n. promieniowy = 2,5 palca grzbietowo prom.
+reszta n. łokciowy</text>
+		</slide>
+		<slide index="75" title="Badanie czucia głębokiego" titleNormalized="badanie czucia głębokiego" src="data/slide76.swf" size="67584207" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb76.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound75" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video18" videoClipId="show0_45889129"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound75" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie czucia głębokiego
+czucie ułożenia
+pacjent określa z zamkniętymi oczami ułożenie (zgięcie/wyprost) części swojego ciała, które zginamy lub prostujemy. 
+!!! ważne żeby przy badaniu ułożenia palców chwycić dystalny pliczek lub ostatni staw po bokach (zapobieganie kompensacji związanej z czuciem powierzchownym)
+czucie wibracji
+używamy widełek stroikowych o f=128 hz. stroik uderzamy → drga. przystawiamy pacjentowi podstawę do powierzchownie leżących kości (np. wyrostek rylcowaty k. promieniowej, kostka boczna). pacjent określa czy i jaki czas drga.
+!!! jeśli uważamy, że zbyt krótko → porównać ze swoim i sprawdzić inne miejsca (rzepka, kolec biodrowy przedni górny)
+widełki stroikowe rydel-seiffera wytwarzają częstotliwość 128 hz. w tym celu do górnej końcówki widełek należy dobrze przymocować dwa tłumiki. na lewym tłumiku znajduje się czarny klin zwrócony do przodu, natomiast na prawym tłumiku biały.</text>
+		</slide>
+		<slide index="76" title="Badanie układu autonomicznego" titleNormalized="badanie układu autonomicznego" src="data/slide77.swf" size="133363" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb77.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound76" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound76" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie układu autonomicznego</text>
+		</slide>
+		<slide index="77" title="Badanie układu autonomicznego Zmienność zatokowa" titleNormalized="badanie układu autonomicznego zmienność zatokowa" src="data/slide78.swf" size="117380" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb78.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound77" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound77" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>badanie układu autonomicznego zmienność zatokowa
+przy 6 głębokich oddechach na minutę
+zaburzenia zmienności zatokowej wynikają najczęściej z uszkodzenia nerwu błędnego w przebiegu np. cukrzycy.
+wydzielanie potu
+wydzielanie potu kontrolowane jest współczulnie i przywspółczulnie.
+
+włókna zazwojowe dla gruczołów tworzą synapsy cholinergiczne.</text>
+		</slide>
+		<slide index="78" title="Podsumowanie, schemat badania" titleNormalized="podsumowanie, schemat badania" src="data/slide79.swf" size="205130" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb79.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound78" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound78" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>podsumowanie, schemat badania</text>
+		</slide>
+		<slide index="79" title="Nieprzytomny?" titleNormalized="nieprzytomny?" src="data/slide80.swf" size="4515080" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb80.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound79" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos>
+				<video id="video19" videoClipId="show0_45926943"/>
+			</videos>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound79" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>nieprzytomny?
+neurologiczne abc fullera:
+ocena podstawowych czynności życiowych.
+oglądanie (ruchy, zmiany skórne).
+reakcje pacjenta (skala glasgow).
+badanie karku i głowy
+palpacyjne, opukowe i wzrokowe szukanie urazu lub wycieku
+ oczy (ustawienie, źrenice + jej reakcje, odruch spojówkowy, objaw „oczu lalki”)
+dno oka
+odruch gardłowy
+układ ruchu i objawy patologiczne (ocena rekacji kończyn górnych na ból)
+objaw „oczu lalki”:
+chwycić głowę w okolicy jarzmowej i skroniowej, obrót w prawo → sprawdzić czy:
+gałki oczne przesuwają się w stronę lewego kąta oczu → (+)
+brak ruchu → obustronne uszkodzenie pnia mózgu (zwłaszcza poniżej śródmózgowia)
+tylko jedna gałka → jednostronne uszkodzenie pnia mózgu
+potem wykonać odwrotnie. brak odwodzenia = uszkodzenie ncvi.
+
+objaw baniewicza:
+pocieranie energicznie mostka = zgięciowy odruch obronny
+
+obustronna rekacja zgięciowa kk. górnych w łokciach = odkorowanie
+
+reakcja wyprostna kk. górnych w łokciach = odmóżdżenie
+odkorowanie (łac. decorticatio): zniszczenie kory mózgowej, zależy zwykle od niedotlenienia. odmóżdżenie (łac. decerebratio, zwane też śmiercią mózgową, łac. mors cerebralis) – trwałe wygaśnięcie wszystkich integracyjnych czynności ośrodkowego układu nerwowego (śmierć pnia mózgu), przy sztucznie podtrzymywanej lub samoistnej akcji serca i oddychania.</text>
+		</slide>
+		<slide index="80" title="Koniec! Konrad Stawiski" titleNormalized="koniec! konrad stawiski" src="data/slide81.swf" size="21150" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailSrc="data/thmb81.swf" presenterIndex="">
+			<sounds>
+				<sound id="sound80" soundAssetId="sndAsset0" hasTriggerEffects="0"/>
+			</sounds>
+			<videos/>
+			<transitionEffect name="PushUp" duration="2.0000000" soundId="sound80" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>koniec! konrad stawiski
+bibliografia:
+kozubski, liberski: „neurologia”
+prusiński: „neurologia praktyczna”
+wikipedia.pl
+youtube.com</text>
+		</slide>
+	</slides>
+	<actions>
+		<action name="playPause">
+			<shortcut code="32" control="0" shift="0"/>
+		</action>
+		<action name="nextSlide">
+			<shortcut code="34" control="0" shift="0"/>
+		</action>
+		<action name="previousSlide">
+			<shortcut code="33" control="0" shift="0"/>
+		</action>
+		<action name="nextStep">
+			<shortcut code="13" control="0" shift="0"/>
+		</action>
+		<action name="previousStep">
+			<shortcut code="13" control="0" shift="1"/>
+		</action>
+		<action name="seekForward">
+			<shortcut code="39" control="0" shift="0"/>
+		</action>
+		<action name="seekBackward">
+			<shortcut code="37" control="0" shift="0"/>
+		</action>
+		<action name="firstSlide">
+			<shortcut code="36" control="1" shift="0"/>
+		</action>
+		<action name="lastSlide">
+			<shortcut code="35" control="1" shift="0"/>
+		</action>
+		<action name="lastViewedSlide">
+			<shortcut code="8" control="0" shift="0"/>
+		</action>
+		<action name="slideStart">
+			<shortcut code="36" control="0" shift="0"/>
+		</action>
+		<action name="slideEnd">
+			<shortcut code="35" control="0" shift="0"/>
+		</action>
+		<action name="volumeUp">
+			<shortcut code="38" control="0" shift="0"/>
+		</action>
+		<action name="volumeDown">
+			<shortcut code="40" control="0" shift="0"/>
+		</action>
+		<action name="toggleFullscreen">
+			<shortcut code="70" control="1" shift="0"/>
+		</action>
+	</actions>
+</presentation>

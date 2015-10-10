@@ -1,0 +1,349 @@
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.exe
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.pdb
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form1.resources
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Properties.Resources.resources
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.exe
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.pdb
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.elearning.resources
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form3.resources
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form4.resources
+C:\Users\Konrad\AppData\Local\Temporary Projects\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form6.resources
+C:\Users\Konrad\documents\visual studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.exe
+C:\Users\Konrad\documents\visual studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.exe
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form1.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.elearning.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form3.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form4.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form6.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form8.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form9.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Properties.Resources.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form10.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.exe.manifest
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.application
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.exe.manifest
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.application
+C:\Users\Konrad\documents\visual studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form11.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form12.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form13.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form14.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form15.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form16.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form17.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form18.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\ip_icon_04_Info.png
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\white-star-md.png
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\ICD10.txt
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form19.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\ICD9.txt
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form20.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.csproj.GenerateResource.Cache
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\HTMLPage1.htm
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\HTMLWYSIWYG.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\HTMLWYSIWYG.pdb
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form21.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\ModelEditControl.xml
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\ModelEditControl.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.MainForm.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.TrustInfo.xml
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\segoeui.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\segoeuib.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\segoeuii.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\segoeuiz.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\seguisb.ttf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.exe.config
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form22.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form23.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\lame_enc.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form25.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form26.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\pdf\libeay32.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\pdf\libgcc_s_dw2-1.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\pdf\mingwm10.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\pdf\ssleay32.dll
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\bin\Debug\pdf\wkhtmltopdf.exe
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form27.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.AboutBox1.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.NotatkiGlosowe.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form28.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Explorer.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.exe.config
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.exe
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.pdb
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\lame_enc.dll
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\pdf\libeay32.dll
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\pdf\libgcc_s_dw2-1.dll
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\pdf\mingwm10.dll
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\pdf\ssleay32.dll
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\pdf\wkhtmltopdf.exe
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\segoeui.ttf
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\segoeuib.ttf
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\segoeuii.ttf
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\segoeuiz.ttf
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\seguisb.ttf
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\HTMLPage1.htm
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\ip_icon_04_Info.png
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\ICD10.txt
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\ICD9.txt
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\white-star-md.png
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.exe.manifest
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.application
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.exe
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.pdb
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\HTMLWYSIWYG.dll
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\ModelEditControl.dll
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\HTMLWYSIWYG.pdb
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\ModelEditControl.xml
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.AboutBox1.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Explorer.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form1.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form10.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form11.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form12.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form13.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form14.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form15.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form16.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form17.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form18.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form19.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.elearning.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form20.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form21.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form22.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form23.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form25.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form26.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form27.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form28.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form3.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form4.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form6.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form8.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form9.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.MainForm.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.NotatkiGlosowe.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Properties.Resources.resources
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.csproj.GenerateResource.Cache
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.TrustInfo.xml
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.exe.manifest
+c:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.application
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\autorun.ico
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\autorun.inf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\bad_neuro.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide1.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide10.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide11.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide12.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide13.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide14.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide15.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide16.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide17.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide18.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide19.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide2.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide20.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide21.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide22.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide23.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide24.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide25.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide26.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide27.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide28.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide29.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide3.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide30.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide31.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide32.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide33.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide34.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide35.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide36.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide37.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide38.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide39.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide4.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide40.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide41.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide42.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide43.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide44.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide45.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide46.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide47.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide48.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide49.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide5.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide50.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide51.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide52.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide53.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide54.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide55.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide56.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide57.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide58.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide59.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide6.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide60.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide61.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide62.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide63.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide64.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide65.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide66.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide67.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide68.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide69.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide7.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide70.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide71.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide72.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide73.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide74.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide75.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide76.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide77.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide78.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide79.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide8.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide80.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide81.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\slide9.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\sound0.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb1.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb10.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb11.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb12.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb13.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb14.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb15.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb16.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb17.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb18.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb19.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb2.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb20.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb21.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb22.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb23.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb24.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb25.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb26.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb27.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb28.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb29.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb3.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb30.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb31.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb32.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb33.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb34.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb35.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb36.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb37.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb38.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb39.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb4.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb40.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb41.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb42.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb43.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb44.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb45.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb46.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb47.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb48.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb49.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb5.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb50.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb51.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb52.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb53.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb54.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb55.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb56.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb57.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb58.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb59.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb6.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb60.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb61.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb62.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb63.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb64.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb65.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb66.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb67.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb68.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb69.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb7.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb70.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb71.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb72.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb73.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb74.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb75.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb76.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb77.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb78.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb79.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb8.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb80.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb81.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\data\thmb9.swf
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\fixprompt.js
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\index.html
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\e-learn\presentation.xml
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.ParametrBadaniaDodatkowego.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.ExplorerBadaniaDodatkowego.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.FollowUp.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.WybierzEdycje.resources
+C:\Users\Konrad\Documents\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Parametry.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\bin\Debug\Badanie Neurologiczne.exe.config
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.exe
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.pdb
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.csprojResolveAssemblyReference.cache
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.AboutBox1.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Explorer.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.ExplorerBadaniaDodatkowego.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.FollowUp.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form1.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form10.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form11.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form12.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form13.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form14.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form15.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form16.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form17.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form18.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form19.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.elearning.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form20.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form21.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form22.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form23.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form25.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form26.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form27.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form28.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form3.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form4.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form6.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form8.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Form9.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.MainForm.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.NotatkiGlosowe.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.ParametrBadaniaDodatkowego.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Parametry.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.Properties.Resources.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie_Neurologiczne.WybierzEdycje.resources
+C:\!CHMURA\IT\Visual Studio 2010\Projects\Badanie Neurologiczne SUPREME\Badanie Neurologiczne\obj\x86\Debug\Badanie Neurologiczne.csproj.GenerateResource.Cache
